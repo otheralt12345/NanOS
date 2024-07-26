@@ -1,0 +1,11 @@
+/boot.o
+/gdt.o
+/gdt_asm.o
+/idt.o
+/idt_asm.o
+/irq_asm.o
+/isr.o
+/isr_asm.o
+/kernel.o
+/monitor.o
+/pic.o
